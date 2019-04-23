@@ -1,3 +1,7 @@
+/****
+ID:181-35-2437
+****/
+
 #include<stdio.h>
 void dfs(int );
 int visited[7];
